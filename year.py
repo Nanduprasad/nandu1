@@ -1,5 +1,5 @@
-year=int(raw_input());
-if(year%4==0):
+yea=int(raw_input());
+if(yea%4==0):
   print("yes")
 else:
   print("no")
